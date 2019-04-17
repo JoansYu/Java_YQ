@@ -1,0 +1,9 @@
+[INFO ][2018-11-19 13:33:04][preferences.PreferencesFrame.<init>(PreferencesTest.java:46)]:G:\java\Practice
+[INFO ][2018-11-19 13:33:53][preferences.PreferencesFrame.<init>(PreferencesTest.java:46)]:G:\java\Practice
+[INFO ][2018-11-19 13:33:53][preferences.PreferencesFrame.<init>(PreferencesTest.java:48)]:javax.swing.filechooser.FileNameExtensionFilter@23f63537[description=XML files extensions=[xml]]
+[INFO ][2018-11-19 13:38:11][preferences.PreferencesFrame.<init>(PreferencesTest.java:46)]:G:\java\Practice
+[INFO ][2018-11-19 13:38:11][preferences.PreferencesFrame.<init>(PreferencesTest.java:48)]:javax.swing.filechooser.FileNameExtensionFilter@25ec82f5[description=XML files extensions=[xml]]
+[INFO ][2018-11-19 13:38:33][preferences.PreferencesFrame.lambda$new$0(PreferencesTest.java:64)]:java.io.FileOutputStream@1157bba8
+[INFO ][2018-11-19 13:39:18][preferences.PreferencesFrame.<init>(PreferencesTest.java:46)]:G:\java\Practice
+[INFO ][2018-11-19 13:39:18][preferences.PreferencesFrame.<init>(PreferencesTest.java:48)]:javax.swing.filechooser.FileNameExtensionFilter@37ea92be[description=XML files extensions=[xml]]
+[INFO ][2018-11-19 13:39:28][preferences.PreferencesFrame.lambda$new$0(PreferencesTest.java:64)]:java.io.FileOutputStream@109253dd

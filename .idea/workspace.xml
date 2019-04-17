@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f3ea19d-fc65-47fa-8aba-ee4c4fee1b75" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Practice$Test.ic" NAME="Test Coverage Results" MODIFIED="1555330912983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>longestcommonprefix.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Practice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Practice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Practice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Practice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Practice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-90938464">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="3" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="TestOutput" value="1" />
+          <entry key="gradle" value="3" />
+          <entry key="java" value="55" />
+          <entry key="log" value="3" />
+          <entry key="properties" value="4" />
+          <entry key="tex" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="3" />
+          <entry key="JAVA" value="55" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="2" />
+          <entry key="java" value="12793" />
+          <entry key="properties" value="19" />
+          <entry key="tex" value="12" />
+          <entry key="txt" value="14" />
+          <entry key="xml" value="363" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="12793" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Properties" value="19" />
+          <entry key="XML" value="363" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/longestcommonprefix/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/isValid/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/longestcommonprefix/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="E:\gradle-5.0-rc-1-all\gradle-5.0-rc-1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5.0" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Practice" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Practice" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'Practice'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'Practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'Practice'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'Practice'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'Practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'Practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'Practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4627237590572" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2157816730" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="51007500" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="Practice" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/announce" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/antlr" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/base-services" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/base-services-groovy" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/build-cache" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/build-cache-http" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/build-comparison" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/build-init" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/build-option" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/cli" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/code-quality" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/composite-builds" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/core" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/core-api" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/dependency-management" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/diagnostics" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/docs" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/ear" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/files" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/ide" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/ide-native" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/ide-play" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/installation-beacon" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/internal-android-performance-testing" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/internal-integ-testing" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/internal-performance-testing" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/internal-testing" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/ivy" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/jacoco" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/javascript" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/jvm-services" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/language-groovy" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/language-java" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/language-jvm" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/language-native" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/language-scala" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/launcher" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/logging" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/maven" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/messaging" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/model-core" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/model-groovy" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/native" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/osgi" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/persistent-cache" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/platform-base" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/platform-jvm" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/platform-native" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/platform-play" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/plugin-development" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/plugin-use" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/plugins" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/process-services" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/publish" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/reporting" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/resources" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/resources-gcs" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/resources-http" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/resources-s3" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/resources-sftp" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/scala" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/signing" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/snapshots" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/test-kit" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/testing-base" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/testing-junit-platform" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/testing-jvm" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/testing-native" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/tooling-api" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/tooling-api-builders" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/tooling-native" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/version-control" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/workers" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/src/wrapper" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/ant-1.9.13.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/ant-launcher-1.9.13.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-api-metadata-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-base-services-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-base-services-groovy-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-build-cache-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-build-option-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-cli-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-core-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-core-api-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-docs-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-files-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-installation-beacon-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-jvm-services-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-kotlin-dsl-1.0-rc-14.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-14.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-14.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-14.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-launcher-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-logging-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-messaging-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-model-core-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-model-groovy-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-native-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-persistent-cache-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-process-services-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-resources-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-runtime-api-info-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-snapshots-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-tooling-api-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/gradle-wrapper-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-announce-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-antlr-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-build-cache-http-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-build-comparison-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-build-init-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-code-quality-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-composite-builds-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-dependency-management-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-diagnostics-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-ear-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-ide-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-ide-native-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-ide-play-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-ivy-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-jacoco-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-javascript-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-language-groovy-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-language-java-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-language-jvm-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-language-native-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-language-scala-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-maven-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-osgi-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-platform-base-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-platform-jvm-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-platform-native-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-platform-play-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-plugin-development-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-plugin-use-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-plugins-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-publish-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-reporting-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-resources-gcs-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-resources-http-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-resources-s3-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-resources-sftp-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-scala-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-signing-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-test-kit-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-testing-base-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-testing-junit-platform-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-testing-jvm-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-testing-native-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-tooling-api-builders-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-tooling-native-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-version-control-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/gradle-workers-5.0.jar" />
+                  <option value="E:/gradle-5.0-rc-1-all/gradle-5.0-rc-1/lib/plugins/ivy-2.3.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/lambda/LambdaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/FunctionInterface.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestLambda/FunctionInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/Greeter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/innerClass/TalkingClock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/innerClass/Simple1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/innerClass/InnerClassTest.java" />
+        <option value="$PROJECT_DIR$/out/production/classes/resource/about.txt" />
+        <option value="$PROJECT_DIR$/out/production/classes/resource/about.tex" />
+        <option value="$PROJECT_DIR$/src/main/java/resource/ResourceTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/properties/LoggerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/properties/PropertiesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/preferences.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/preferences/PreferencesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bounce/BallComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bounce/Ball.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bounce/Bounce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/unsynch/Bank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/synch/Bank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/unsynch/UnsynchBnakTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/GeneralType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice_QH/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/sortString/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/sortString/StringSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/sortString/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/cmdDemo/ArraysDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/rectangle/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/bank/AccountTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/bank/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/practice2_2/MyPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/practice2_2/MyPointTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/practice2_2/prac2_1/MyPointTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic_paradigm/practice2_2/pra2_2/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/twosum/twoSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/twosum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/palindrome/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/palindrome/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reverse/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reverse/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/longestcommonprefix/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/longestcommonprefix/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/isValid/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reverse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="twosum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://G:/java/Practice/src/main/java/bounce/BallComponent.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555418754623" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\java\Practice\src\main\java\preferences" />
+      <recent name="G:\java\Practice\src\main\resources" />
+      <recent name="G:\java\Practice\src\test\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\java\Practice\src" />
+      <recent name="G:\java\Practice\out\production\classes\resource" />
+      <recent name="G:\java\Practice\src\test\resources" />
+      <recent name="G:\java\Practice\src\main\java\resource" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="MyPointTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic_paradigm.practice2_2.prac2_1.MyPointTest" />
+      <module name="Practice_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generic_paradigm.practice2_2.prac2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse.SolutionTest" />
+      <module name="Practice_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrome.SolutionTest" />
+      <module name="Practice_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestcommonprefix.Test" />
+      <module name="Practice_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="longestcommonprefix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoSumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twosum.twoSumTest" />
+      <module name="Practice_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twosum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyPointTest" />
+      <item itemvalue="Application.twoSumTest" />
+      <item itemvalue="Application.SolutionTest" />
+      <item itemvalue="Application.SolutionTest (1)" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SolutionTest (1)" />
+        <item itemvalue="Application.SolutionTest" />
+        <item itemvalue="Application.twoSumTest" />
+        <item itemvalue="Application.MyPointTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f3ea19d-fc65-47fa-8aba-ee4c4fee1b75" name="Default Changelist" comment="" />
+      <created>1542353562038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542353562038</updated>
+      <workItem from="1542353566377" duration="13084000" />
+      <workItem from="1542455338307" duration="35000" />
+      <workItem from="1542455493978" duration="5399000" />
+      <workItem from="1542523170885" duration="15778000" />
+      <workItem from="1542601405987" duration="3146000" />
+      <workItem from="1542606729720" duration="10474000" />
+      <workItem from="1542697372168" duration="11349000" />
+      <workItem from="1542782902400" duration="1684000" />
+      <workItem from="1545372909987" duration="21000" />
+      <workItem from="1547089690104" duration="5426000" />
+      <workItem from="1550643543878" duration="599000" />
+      <workItem from="1550985130401" duration="599000" />
+      <workItem from="1552977574967" duration="643000" />
+      <workItem from="1553227092497" duration="109000" />
+      <workItem from="1553246450685" duration="474000" />
+      <workItem from="1554779316341" duration="28189000" />
+      <workItem from="1555045500642" duration="4151000" />
+      <workItem from="1555328433507" duration="5470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FunctionInterfaceTest - 2018.11.16 at 16h 37m 43s.xml">
+      <configuration name="FunctionInterfaceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionInterfaceTest - 2018.11.16 at 16h 38m 56s.xml">
+      <configuration name="FunctionInterfaceTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106630000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2560175" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.31763417" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42407808" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.28958786" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.27765727" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.15426695" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/jdk-11.0.1_windows-x64_bin/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/event/WindowAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-11.0.1_windows-x64_bin/jdk-11.0.1/lib/src.zip!/java.desktop/javax/swing/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="557" column="17" selection-start-line="557" selection-start-column="17" selection-end-line="557" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-11.0.1_windows-x64_bin/jdk-11.0.1/lib/src.zip!/java.desktop/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLambda/FunctionInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/innerClass/InnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/resource/about.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/innerClass/Simple1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-11.0.1_windows-x64_bin/jdk-11.0.1/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1114">
+          <caret line="123" column="50" selection-start-line="123" selection-start-column="50" selection-end-line="123" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource/ResourceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/properties/log.log" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/properties/PropertiesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="71" column="51" selection-start-line="71" selection-start-column="51" selection-end-line="71" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-11.0.1_windows-x64_bin/jdk-11.0.1/lib/src.zip!/java.logging/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="221" column="13" selection-start-line="221" selection-start-column="13" selection-end-line="221" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/preferences/2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/preferences/3.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/preferences/preferences.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/preferences/TestOutput">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/properties/LoggerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/preferences/PreferencesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/properties/monitor.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bounce/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/unsynch/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/unsynch/UnsynchBnakTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bounce/BallComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bounce/Bounce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/sortString/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/synch/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/sortString/StringSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/cmdDemo/ArraysDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/rectangle/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/sortString/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice_QH/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/bank/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/practice2_2/pra2_2/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/practice2_2/prac2_1/MyPointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/bank/AccountTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic_paradigm/practice2_2/prac2_1/MyPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twosum/twoSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/palindrome/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twosum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/palindrome/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reverse/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reverse/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/longestcommonprefix/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/longestcommonprefix/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/isValid/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Practice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
